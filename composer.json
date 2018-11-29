@@ -1,0 +1,13 @@
+{
+    "name": "sohophp/fetcher",
+    "description": "http request fetcher",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "sohophp",
+            "email": "sohophp@gmail.com"
+        }
+    ],
+    "require": {}
+}
